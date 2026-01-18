@@ -192,6 +192,19 @@ main > section {
   font-size: 4rem;
   font-weight: 700;
 }
+.footer-container {
+  margin-top: 130;
+  background-color: #fff4e7;
+  width: 100%;
+  max-width: 1440px;
+  max-height: 100px;
+}
+
+.footer-content {
+  text-align: center;
+  padding-top: 38px;
+  padding-bottom: 38px;
+}
 /* Responsive media Query */
 
 @media screen and (max-width: 576px) {
